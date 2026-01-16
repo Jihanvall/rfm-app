@@ -42,7 +42,7 @@ Instead of treating all customers the same, this tool enables businesses to:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```text
 rfm-app/
 ├── app.py                # Main Streamlit application

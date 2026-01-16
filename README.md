@@ -22,8 +22,8 @@ Instead of treating all customers the same, this tool enables businesses to:
 
 ---
 
-## ✨ Key Features
-* **🛠 Automated Data Cleaning:** Handles missing values and preprocesses raw transaction logs.
+##  Key Features
+* **Automated Data Cleaning:** Handles missing values and preprocesses raw transaction logs.
 * **RFM Engine:** Calculates Recency, Frequency, and Monetary scores for every unique customer.
 * **AI-Powered Segmentation:** Uses K-Means Clustering to group customers based on behavior, not just demographics.
 * **Smart Recommendations:** Provides actionable marketing strategies (e.g., "Send discount", "Offer early access") based on the selected segment.

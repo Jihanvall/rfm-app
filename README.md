@@ -53,19 +53,21 @@ rfm-app/
 ```
 ---
 
-##  How to Run Locally
-If you want to run this app on your own machine, follow these steps:
+## How to Run Locally
 
-**1. Clone the repository:**
+Follow these steps to run the app on your local machine:
+
 ```bash
-git clone [https://github.com/Jihanvall/rfm-app.git](https://github.com/Jihanvall/rfm-app.git)
+# Clone the repository
+git clone https://github.com/Jihanvall/rfm-app.git
 cd rfm-app
 
-## 2. install dependencies:
+# Install dependencies
 pip install -r requirements.txt
 
-## 3.Run the app:
+# Run the app locally
 streamlit run app.py
+
 
 
 

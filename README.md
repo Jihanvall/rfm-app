@@ -7,7 +7,7 @@
 
 ##  Live Demo
 **Check out the live application here:**
-👉 **[Launch Customer Segmentation App](https://share.streamlit.io/jihanvall/rfm-app/main/app.py)**
+ **[Launch Customer Segmentation App](https://share.streamlit.io/jihanvall/rfm-app/main/app.py)**
 
 ---
 

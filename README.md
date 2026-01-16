@@ -51,6 +51,8 @@ rfm-app/
 ├── README.md             # Project documentation
 └── .gitignore            # Files excluded from version control
 
+---
+
 ##  How to Run Locally
 If you want to run this app on your own machine, follow these steps:
 

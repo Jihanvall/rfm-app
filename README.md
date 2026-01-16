@@ -50,21 +50,22 @@ rfm-app/
 ├── requirements.txt      # Project dependencies
 ├── README.md             # Project documentation
 └── .gitignore            # Files excluded from version control
-
+```
 ---
 
-##  How to Run Locally
+## How to Run Locally
 If you want to run this app on your own machine, follow these steps:
 
 **1. Clone the repository:**
 ```bash
 git clone [https://github.com/Jihanvall/rfm-app.git](https://github.com/Jihanvall/rfm-app.git)
 cd rfm-app
+```
 
-##install dependencies:
+## 2. install dependencies:
 pip install -r requirements.txt
 
-##Run the app:
+## 3.Run the app:
 streamlit run app.py
 
 

@@ -26,7 +26,6 @@ Instead of treating all customers the same, this tool enables businesses to:
 * **Automated Data Cleaning:** Handles missing values and preprocesses raw transaction logs.
 * **RFM Engine:** Calculates Recency, Frequency, and Monetary scores for every unique customer.
 * **AI-Powered Segmentation:** Uses K-Means Clustering to group customers based on behavior, not just demographics.
-* **Smart Recommendations:** Provides actionable marketing strategies (e.g., "Send discount", "Offer early access") based on the selected segment.
 * **Interactive Dashboard:** Visualizes segment distribution and KPIs using Plotly.
 * **Export Ready:** Allows users to download the segmented data as CSV for use in CRM tools.
 
